@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">homework_19_1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="o_tkazib_yuborish">o\'tkazib yuborish</string>
+    <string name="gazal">Kim ko\'ribdur ey ko\'ngul, axli jaxondin yaxshilg\', kimki ondin yaxshi yo\'q, ko\'z tutma ondin yaxshilig\'</string>
+    <string name="gazal_2">Bu zamonni nafy\'e qilsam, ayb qilma ey rafiq, ko\'rmadim hargiz netayin bu zamondin yaxshilig\'</string>
+    <string name="gazal_3">Dilrabolardin yomonlig\' keldi maxzun ko\'nlima, Ko\'rmadim hargiz netayin , oromijondin yaxshilig\'</string>
+    <string name="gazal_4">Ey ko‘ngul, chun yaxshidin ko‘rdung yamonliq asru ko‘p, Emdi ko‘z tutmoq ne ma’ni har yamondin yaxshilig\'</string>
+</resources>
